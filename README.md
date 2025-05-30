@@ -62,17 +62,17 @@ The app automatically detects and loads one of the models you place in that fold
 
 You can use models like:
 
--- DeepSeek
--- Mistral
--- Qwen
--- Or any GGUF-compatible model
+- DeepSeek
+- Mistral
+- Qwen
+- Or any GGUF-compatible model
 
 ## Example Models You Can Use
 Some models known to work well:
 
--- deepseek-coder-6.7b-instruct.Q4_K_M.gguf
--- mistral-7b-instruct-v0.1.Q4_K_M.gguf
--- Janus-Pro-7B-LM.Q4_K_M.gguf
+- deepseek-coder-6.7b-instruct.Q4_K_M.gguf
+- mistral-7b-instruct-v0.1.Q4_K_M.gguf
+- Janus-Pro-7B-LM.Q4_K_M.gguf
 
 Note: Machine used was Intel i7, integrated graphics (again why we used GGUF)
 
