@@ -1,0 +1,12 @@
+# Python virtual environments
+deepseek-env/
+
+# Pretrained models
+models/*.gguf
+
+# Bytecode and metadata
+__pycache__/
+*.pyc
+
+# VSCode settings (optional)
+.vscode/
